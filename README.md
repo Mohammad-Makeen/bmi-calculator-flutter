@@ -14,18 +14,16 @@ Flutter Widgets to achieve our own beautiful user interface designs. If you have
 ## BMI App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## What you will learn
+## New Skills
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+- Handling Flutter themes to create coherent branding. 
+- Creating multi-page apps using Flutter Routes and Navigator.
+- Extracting and refactoring Flutter Widgets. 
+- Using the GestureDetector Widget to detect more than just a tap.
+- Customising Flutter Widgets to achieve a specific design style.
+- Understanding Dart Enums and the Ternary Operator.
+- Implementing OOP conecepts such as composition and inheritance in the Flutter way of creating custom UI.
+- Understanding the difference between const and final in Dart and when to use each.
 
 
 
