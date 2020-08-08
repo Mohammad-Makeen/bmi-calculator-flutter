@@ -25,9 +25,3 @@ Flutter Widgets to achieve our own beautiful user interface designs. If you have
 - Implementing OOP conecepts such as composition and inheritance in the Flutter way of creating custom UI.
 - Understanding the difference between const and final in Dart and when to use each.
 
-
-# Copyrights :copyright:
-
-
-
-
