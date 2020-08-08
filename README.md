@@ -11,6 +11,7 @@ Flutter Widgets to achieve our own beautiful user interface designs. If you have
 ## What's new in this App
  It will be a multi screen app with simple functionality but full-on custom styling. 
  inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
+ 
 ## BMI App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
