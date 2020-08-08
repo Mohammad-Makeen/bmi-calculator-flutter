@@ -17,12 +17,9 @@ Flutter Widgets to achieve our own beautiful user interface designs. If you have
 
 ## New Skills
 
-- Handling Flutter themes to create coherent branding. 
+- Working with Flutter themes to create coherent branding. 
 - Creating multi-page apps using Flutter Routes and Navigator.
 - Extracting and refactoring Flutter Widgets. 
-- Using the GestureDetector Widget to detect more than just a tap.
-- Customising Flutter Widgets to achieve a specific design style.
-- Understanding Dart Enums and the Ternary Operator.
+- Customising Flutter Widgets (components) to achieve a specific design style.
 - Implementing OOP conecepts such as composition and inheritance in the Flutter way of creating custom UI.
-- Understanding the difference between const and final in Dart and when to use each.
 
